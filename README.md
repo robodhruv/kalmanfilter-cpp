@@ -2,8 +2,7 @@ Kalman Filter on C++ (Eigen)
 =============
 This is a basic Kalman filter implementation in C++ using the
 [Eigen](http://eigen.tuxfamily.org/) library. It implements the algorithm
-directly as found in [An Introduction to the Kalman Filter]
-(https://courses.cs.washington.edu/courses/cse571/03wi/notes/welch-bishop-tutorial.pdf) or
+directly as found in [An Introduction to the Kalman Filter](https://courses.cs.washington.edu/courses/cse571/03wi/notes/welch-bishop-tutorial.pdf) or
 demonstrated in this [YouTube video](https://www.youtube.com/watch?v=VFXf1lIZ3p8).
 
 The overall structure of the code has been borrowed from [hmartiro's implementation](https://github.com/hmartiro/kalman-cpp),
